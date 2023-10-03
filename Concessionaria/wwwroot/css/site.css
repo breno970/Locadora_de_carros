@@ -1,0 +1,112 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+.container {
+    margin-left: auto;
+    padding: 0;
+}
+
+.index {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+}
+
+.index div {
+        color: white;
+        font-weight: 400;
+        width: 60%;
+        background-color: rgb(0,0,0, 0.6);
+        border-radius: 5px;
+        padding: 20px;
+}
+
+.car {
+    background-image: url('https://act-rego-check.com.au/wp-content/uploads/2021/10/1-2048x1365.jpg');
+}
+
+body {
+    background-color: #707070;
+}
+
+.navbar-style {
+    background-color: rgb(0, 0, 0, 0.8) !important;
+    border-bottom: none !important;
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+
+.navbar-style ul li a{
+    color: white !important;
+    font-size: 1.1rem
+}
+
+.navbar-nav a:hover {
+    color: gray !important;
+}
+
+ .navbar-style ul li a:hover {
+    color: red;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    color: white !important;
+}
+
+.navbar-brand:hover {
+    color: gray !important;
+}
+
+.footer-style {
+    background-color: rgb(0, 0, 0, 0.8);
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    padding: auto;
+}
+
+.footer-style div {
+    color: white;
+    font-size:1.07rem;
+    padding: 20px 0 20px 0;
+}
+
+.footer-style div a {
+    text-decoration: none;
+    font-weight: 600;
+    color: gray;
+}
+
+.footer-style div a:hover {
+    color: white;
+}
+
+.carros {
+    margin-top: 70px !important; 
+}
+
+.cadCarros {
+    margin-top: 70px !important;
+}
+
+.privacy {
+    margin-top: 70px !important;
+}

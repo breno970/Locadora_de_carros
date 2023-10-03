@@ -1,0 +1,49 @@
+﻿@model IEnumerable<ConcessionariaWeb.Model.Funcionario>
+
+@{
+    ViewData["Title"] = "View";
+}
+<div class="table-container">
+<h1>LISTA DE FUNCIONÁRIOS</h1>
+
+<p>
+    <a class="add-button" asp-action="Create">Incluir Funcionário</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+             <th>
+                @Html.DisplayNameFor(model => model.ID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CPF)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+             <td>
+                @Html.DisplayFor(modelItem => item.ID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CPF)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ID">Alterar</a> |
+                <a asp-action="Delete" asp-route-id="@item.ID">Excluir</a> |
+                <a asp-action="Details" asp-route-id="@item.ID">Detalhes</a> 
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+</div>

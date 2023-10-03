@@ -1,0 +1,194 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background-image: url("../assets/lma9dzqtdza41.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.home-text {
+    color: rgba(255, 255, 255, 0.9);
+    font-weight: 600;
+    text-align: center;
+    margin-top: 23%;
+    padding: 20px 0px;
+    background-color: rgba(0,0,0,0.7);
+    border-radius: 5px;
+    border: 2px solid rgba(255, 255, 255, 0.7);
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
+}
+
+.navbar {
+    background-color: rgba(0,0,0,0.85) !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3) !important;
+    border-top: none !important;
+}
+
+.navbar a {
+    color: rgba(255, 255, 255, 0.8) !important;
+ }
+
+    .navbar li:hover {
+        background: rgba(255, 255, 255, 0.3);
+        border-radius: 2px;
+    }
+
+.navbar-brand {
+    padding: 5px 5px;
+}
+    .navbar-brand:hover {
+        background: rgba(255, 255, 255, 0.3);
+        border-radius: 2px;
+    }
+
+.footer {
+    color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+    border-top: 1px solid rgba(255, 255, 255, 0.3);
+    background-color: rgba(0,0,0,0.85);
+    position: absolute;
+    bottom: 0px;
+    padding: 20px 0px;
+    width: 100%;
+}
+
+.table-container {
+    color: rgba(255, 255, 255, 0.8) !important;
+    background-color: rgba(0,0,0,0.7) !important;
+    max-height: 820px;
+    height: 100vh;
+    padding: 20px 20px;
+    border: 2px solid rgba(255, 255, 255, 0.7);
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
+    border-radius: 5px;
+}
+
+.table-container h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.table-container p a {
+    text-decoration: none !important;
+    padding: 10px 10px;
+    margin-top: 20px !important;
+    background-color: orange;
+    color: black;
+    font-weight: 500;
+}
+
+    .table-container p a:hover {
+        background-color: rgba(255, 165, 0, 0.8);
+    }
+
+
+.table tr {
+    color: rgba(255, 255, 255, 0.75);
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+.table td a {
+    color: black;
+    background: rgba(255, 255, 255, 0.7);
+    text-decoration: none;
+    padding: 5px 15px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.table td a:hover {
+   background-color: rgba(255, 255, 255, 0.5);
+}
+
+.edit-style {
+    margin: auto;
+    width: 50%;
+    color: white;
+    font-size: 1.2rem;
+    background-color: rgba(0,0,0,0.7);
+    padding: 20px 20px;
+    border: 2px solid rgba(255, 255, 255, 0.7);
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
+    border-radius: 5px;
+}
+
+    .edit-style label {
+        margin: 0px 0px 0px 0px!important;
+    }
+
+    .edit-style input {
+        margin-bottom: 20px;
+    }
+
+  .edit-form {
+      margin: auto;
+  }
+
+  .btn-edit {
+      text-align: center;
+  }
+
+    .btn-edit input {
+        color: rgba(255, 255, 255, 0.75);
+        background-color: gray;
+        width: 70%;
+        margin-top: 15px;
+    }
+
+    .btn-edit input:hover {
+        background-color: lightgray;
+    }
+
+.return {
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.75);
+}
+
+.return:hover {
+        color: rgb(255, 255, 255)
+}
+
+.detail-style {
+    padding-top: 20px;
+    padding-left: 20px;
+    margin-bottom: 20px;
+    background-color: rgba(0,0,0,0.7);
+    border: 2px solid rgba(255, 255, 255, 0.7);
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
+    border-radius: 5px;
+    color: white;
+    padding-bottom: 20px;
+}
+
+.detail-links a {
+    color: rgba(255, 255, 255, 0.9);
+    background: gray;
+    text-decoration: none;
+    padding: 5px 15px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.delete-style {
+    background-color: gray;
+}
+
+
+.delete-style:hover {
+    background-color: lightgray;
+}

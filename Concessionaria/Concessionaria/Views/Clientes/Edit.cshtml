@@ -1,0 +1,45 @@
+﻿@model ConcessionariaWeb.Model.Clientes
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Alterar</h1>
+
+<hr />
+
+<div class=" edit-style row d-flex">
+    <div class="col edit-form">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="cliente" class="control-label"></label>
+                <input asp-for="cliente" class="form-control" />
+                <span asp-validation-for="cliente" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CEP" class="control-label"></label>
+                <input asp-for="CEP" class="form-control" />
+                <span asp-validation-for="CEP" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="endereço" class="control-label"></label>
+                <input asp-for="endereço" class="form-control" />
+                <span asp-validation-for="endereço" class="text-danger"></span>
+            </div>
+            <input type="hidden" asp-for="ID" />
+            <div class="col form-group btn-edit">
+                <input type="submit" value="Salvar" class="btn btn-lg" />
+            </div>
+        </form>
+    </div>
+
+    <div>
+    <a class="return" asp-action="Index">Voltar à lista</a>
+</div>
+
+
+</div>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,50 @@
+﻿
+@model IEnumerable<ConcessionariaWeb.Model.Veiculo>
+
+@{
+    ViewData["Title"] = "View";
+}
+<div class="table-container">
+
+<h1>LISTA DE VEÍCULOS </h1>
+
+<p>
+    <a asp-action="Create">Incluir Veiculo</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ID)
+            </th>
+             <th>
+                @Html.DisplayNameFor(model => model.marca)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.modelo)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ID)
+            </td>
+             <td>
+                @Html.DisplayFor(modelItem => item.marca)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.modelo)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ID">Alterar</a> |
+                <a asp-action="Delete" asp-route-id="@item.ID">Excluir</a> |
+                <a asp-action="Details" asp-route-id="@item.ID">Detalhes</a> 
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+</div>

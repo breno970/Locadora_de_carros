@@ -1,0 +1,72 @@
+C:\Users\breno\OneDrive\Área de Trabalho\AV1\Concessionaria\ConcessionariaWeb.Model\bin\Debug\net6.0\ConcessionariaWeb.Model.deps.json
+C:\Users\breno\OneDrive\Área de Trabalho\AV1\Concessionaria\ConcessionariaWeb.Model\bin\Debug\net6.0\ConcessionariaWeb.Model.dll
+C:\Users\breno\OneDrive\Área de Trabalho\AV1\Concessionaria\ConcessionariaWeb.Model\bin\Debug\net6.0\ConcessionariaWeb.Model.pdb
+C:\Users\breno\OneDrive\Área de Trabalho\AV1\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\ConcessionariaWeb.Model.csproj.AssemblyReference.cache
+C:\Users\breno\OneDrive\Área de Trabalho\AV1\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\ConcessionariaWeb.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\OneDrive\Área de Trabalho\AV1\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\ConcessionariaWeb.Model.AssemblyInfoInputs.cache
+C:\Users\breno\OneDrive\Área de Trabalho\AV1\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\ConcessionariaWeb.Model.AssemblyInfo.cs
+C:\Users\breno\OneDrive\Área de Trabalho\AV1\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\ConcessionariaWeb.Model.csproj.CoreCompileInputs.cache
+C:\Users\breno\OneDrive\Área de Trabalho\AV1\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\ConcessionariaWeb.Model.dll
+C:\Users\breno\OneDrive\Área de Trabalho\AV1\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\refint\ConcessionariaWeb.Model.dll
+C:\Users\breno\OneDrive\Área de Trabalho\AV1\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\ConcessionariaWeb.Model.pdb
+C:\Users\breno\OneDrive\Área de Trabalho\AV1\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\ref\ConcessionariaWeb.Model.dll
+C:\Users\breno\Downloads\AV1\Concessionaria\ConcessionariaWeb.Model\bin\Debug\net6.0\ConcessionariaWeb.Model.deps.json
+C:\Users\breno\Downloads\AV1\Concessionaria\ConcessionariaWeb.Model\bin\Debug\net6.0\ConcessionariaWeb.Model.dll
+C:\Users\breno\Downloads\AV1\Concessionaria\ConcessionariaWeb.Model\bin\Debug\net6.0\ConcessionariaWeb.Model.pdb
+C:\Users\breno\Downloads\AV1\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\ConcessionariaWeb.Model.csproj.AssemblyReference.cache
+C:\Users\breno\Downloads\AV1\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\ConcessionariaWeb.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\Downloads\AV1\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\ConcessionariaWeb.Model.AssemblyInfoInputs.cache
+C:\Users\breno\Downloads\AV1\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\ConcessionariaWeb.Model.AssemblyInfo.cs
+C:\Users\breno\Downloads\AV1\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\ConcessionariaWeb.Model.csproj.CoreCompileInputs.cache
+C:\Users\breno\Downloads\AV1\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\ConcessionariaWeb.Model.dll
+C:\Users\breno\Downloads\AV1\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\refint\ConcessionariaWeb.Model.dll
+C:\Users\breno\Downloads\AV1\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\ConcessionariaWeb.Model.pdb
+C:\Users\breno\Downloads\AV1\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\ref\ConcessionariaWeb.Model.dll
+E:\Documentos\Trabalhos Faculdade\Desenvolvimento de Sistemas Web com .NET\AV1\Concessionaria\ConcessionariaWeb.Model\bin\Debug\net6.0\ConcessionariaWeb.Model.deps.json
+E:\Documentos\Trabalhos Faculdade\Desenvolvimento de Sistemas Web com .NET\AV1\Concessionaria\ConcessionariaWeb.Model\bin\Debug\net6.0\ConcessionariaWeb.Model.dll
+E:\Documentos\Trabalhos Faculdade\Desenvolvimento de Sistemas Web com .NET\AV1\Concessionaria\ConcessionariaWeb.Model\bin\Debug\net6.0\ConcessionariaWeb.Model.pdb
+E:\Documentos\Trabalhos Faculdade\Desenvolvimento de Sistemas Web com .NET\AV1\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\ConcessionariaWeb.Model.csproj.AssemblyReference.cache
+E:\Documentos\Trabalhos Faculdade\Desenvolvimento de Sistemas Web com .NET\AV1\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\ConcessionariaWeb.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\Trabalhos Faculdade\Desenvolvimento de Sistemas Web com .NET\AV1\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\ConcessionariaWeb.Model.AssemblyInfoInputs.cache
+E:\Documentos\Trabalhos Faculdade\Desenvolvimento de Sistemas Web com .NET\AV1\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\ConcessionariaWeb.Model.AssemblyInfo.cs
+E:\Documentos\Trabalhos Faculdade\Desenvolvimento de Sistemas Web com .NET\AV1\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\ConcessionariaWeb.Model.csproj.CoreCompileInputs.cache
+E:\Documentos\Trabalhos Faculdade\Desenvolvimento de Sistemas Web com .NET\AV1\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\ConcessionariaWeb.Model.dll
+E:\Documentos\Trabalhos Faculdade\Desenvolvimento de Sistemas Web com .NET\AV1\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\refint\ConcessionariaWeb.Model.dll
+E:\Documentos\Trabalhos Faculdade\Desenvolvimento de Sistemas Web com .NET\AV1\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\ConcessionariaWeb.Model.pdb
+E:\Documentos\Trabalhos Faculdade\Desenvolvimento de Sistemas Web com .NET\AV1\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\ref\ConcessionariaWeb.Model.dll
+E:\Documentos\Trabalhos Faculdade\Desenvolvimento de Sistemas Web com .NET\AV1 14-04\Concessionaria\ConcessionariaWeb.Model\bin\Debug\net6.0\ConcessionariaWeb.Model.deps.json
+E:\Documentos\Trabalhos Faculdade\Desenvolvimento de Sistemas Web com .NET\AV1 14-04\Concessionaria\ConcessionariaWeb.Model\bin\Debug\net6.0\ConcessionariaWeb.Model.dll
+E:\Documentos\Trabalhos Faculdade\Desenvolvimento de Sistemas Web com .NET\AV1 14-04\Concessionaria\ConcessionariaWeb.Model\bin\Debug\net6.0\ConcessionariaWeb.Model.pdb
+E:\Documentos\Trabalhos Faculdade\Desenvolvimento de Sistemas Web com .NET\AV1 14-04\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\ConcessionariaWeb.Model.csproj.AssemblyReference.cache
+E:\Documentos\Trabalhos Faculdade\Desenvolvimento de Sistemas Web com .NET\AV1 14-04\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\ConcessionariaWeb.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\Trabalhos Faculdade\Desenvolvimento de Sistemas Web com .NET\AV1 14-04\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\ConcessionariaWeb.Model.AssemblyInfoInputs.cache
+E:\Documentos\Trabalhos Faculdade\Desenvolvimento de Sistemas Web com .NET\AV1 14-04\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\ConcessionariaWeb.Model.AssemblyInfo.cs
+E:\Documentos\Trabalhos Faculdade\Desenvolvimento de Sistemas Web com .NET\AV1 14-04\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\ConcessionariaWeb.Model.csproj.CoreCompileInputs.cache
+E:\Documentos\Trabalhos Faculdade\Desenvolvimento de Sistemas Web com .NET\AV1 14-04\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\ConcessionariaWeb.Model.dll
+E:\Documentos\Trabalhos Faculdade\Desenvolvimento de Sistemas Web com .NET\AV1 14-04\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\refint\ConcessionariaWeb.Model.dll
+E:\Documentos\Trabalhos Faculdade\Desenvolvimento de Sistemas Web com .NET\AV1 14-04\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\ConcessionariaWeb.Model.pdb
+E:\Documentos\Trabalhos Faculdade\Desenvolvimento de Sistemas Web com .NET\AV1 14-04\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\ref\ConcessionariaWeb.Model.dll
+C:\Users\Iwo\Downloads\AV1 14-04\AV1 14-04\Concessionaria\ConcessionariaWeb.Model\bin\Debug\net6.0\ConcessionariaWeb.Model.deps.json
+C:\Users\Iwo\Downloads\AV1 14-04\AV1 14-04\Concessionaria\ConcessionariaWeb.Model\bin\Debug\net6.0\ConcessionariaWeb.Model.dll
+C:\Users\Iwo\Downloads\AV1 14-04\AV1 14-04\Concessionaria\ConcessionariaWeb.Model\bin\Debug\net6.0\ConcessionariaWeb.Model.pdb
+C:\Users\Iwo\Downloads\AV1 14-04\AV1 14-04\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\ConcessionariaWeb.Model.csproj.AssemblyReference.cache
+C:\Users\Iwo\Downloads\AV1 14-04\AV1 14-04\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\ConcessionariaWeb.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iwo\Downloads\AV1 14-04\AV1 14-04\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\ConcessionariaWeb.Model.AssemblyInfoInputs.cache
+C:\Users\Iwo\Downloads\AV1 14-04\AV1 14-04\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\ConcessionariaWeb.Model.AssemblyInfo.cs
+C:\Users\Iwo\Downloads\AV1 14-04\AV1 14-04\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\ConcessionariaWeb.Model.csproj.CoreCompileInputs.cache
+C:\Users\Iwo\Downloads\AV1 14-04\AV1 14-04\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\ConcessionariaWeb.Model.dll
+C:\Users\Iwo\Downloads\AV1 14-04\AV1 14-04\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\refint\ConcessionariaWeb.Model.dll
+C:\Users\Iwo\Downloads\AV1 14-04\AV1 14-04\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\ConcessionariaWeb.Model.pdb
+C:\Users\Iwo\Downloads\AV1 14-04\AV1 14-04\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\ref\ConcessionariaWeb.Model.dll
+C:\Users\breno\OneDrive\Área de Trabalho\AV1 14-04 (1)\Concessionaria\ConcessionariaWeb.Model\bin\Debug\net6.0\ConcessionariaWeb.Model.deps.json
+C:\Users\breno\OneDrive\Área de Trabalho\AV1 14-04 (1)\Concessionaria\ConcessionariaWeb.Model\bin\Debug\net6.0\ConcessionariaWeb.Model.dll
+C:\Users\breno\OneDrive\Área de Trabalho\AV1 14-04 (1)\Concessionaria\ConcessionariaWeb.Model\bin\Debug\net6.0\ConcessionariaWeb.Model.pdb
+C:\Users\breno\OneDrive\Área de Trabalho\AV1 14-04 (1)\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\ConcessionariaWeb.Model.csproj.AssemblyReference.cache
+C:\Users\breno\OneDrive\Área de Trabalho\AV1 14-04 (1)\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\ConcessionariaWeb.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\OneDrive\Área de Trabalho\AV1 14-04 (1)\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\ConcessionariaWeb.Model.AssemblyInfoInputs.cache
+C:\Users\breno\OneDrive\Área de Trabalho\AV1 14-04 (1)\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\ConcessionariaWeb.Model.AssemblyInfo.cs
+C:\Users\breno\OneDrive\Área de Trabalho\AV1 14-04 (1)\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\ConcessionariaWeb.Model.csproj.CoreCompileInputs.cache
+C:\Users\breno\OneDrive\Área de Trabalho\AV1 14-04 (1)\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\ConcessionariaWeb.Model.dll
+C:\Users\breno\OneDrive\Área de Trabalho\AV1 14-04 (1)\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\refint\ConcessionariaWeb.Model.dll
+C:\Users\breno\OneDrive\Área de Trabalho\AV1 14-04 (1)\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\ConcessionariaWeb.Model.pdb
+C:\Users\breno\OneDrive\Área de Trabalho\AV1 14-04 (1)\Concessionaria\ConcessionariaWeb.Model\obj\Debug\net6.0\ref\ConcessionariaWeb.Model.dll

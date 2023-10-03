@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Concessionaria",
+    "\\Concessionaria\\CarroWeb.Model",
+    "\\Concessionaria\\Concessionaria",
+    "\\Concessionaria\\ConcessionariaWeb.Model",
+    "\\Concessionaria\\ConcessionariaWeb.TESTE",
+    "\\Concessionaria\\Controllers",
+    "\\Concessionaria\\Models"
+  ],
+  "SelectedNode": "\\Concessionaria\\CarroWeb.Model\\Veiculo.cs",
+  "PreviewInSolutionExplorer": false
+}
